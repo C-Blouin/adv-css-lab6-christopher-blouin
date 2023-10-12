@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+/* 
+
+Advanced Interface Design with CSS - Lab 6 Navigation Components | Christopher Blouin
+
+*/
+
+.georgian-blue {
+    background-color: #004b87;
+}
+
+/* Create whitespace between the main content and fixed header. */
+header {
+    margin-bottom: 15rem;
+}
